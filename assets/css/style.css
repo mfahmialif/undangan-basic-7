@@ -1496,12 +1496,11 @@ body.meirahmawati {
   object-fit: cover;
   height: 230px;
   width: 100%;
-  border: 4px solid #fff;
   border-radius: 20px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
 
 .gallery-item {
-  overflow: hidden;
 }
 
 .quote {
